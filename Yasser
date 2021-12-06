@@ -1,0 +1,43 @@
+[font:RobotoDraft]  
+<a href="#" name="menu">
+        <div name="m-s"></div>
+        
+        <div name="user">
+            <div name="u-i"></div>
+        </div>
+    </a>
+    
+    <div name="b">
+        <div name="f"></div>
+    </div>
+    
+    <div name="aa-m">
+        <h1>ABOUT ME</h1>
+        <div name="l">
+            <p style="font-family: 'Arial', sans-serif; color: #FFF; font-size: 11px">work in progress</p>
+            <div name="l-l"></div>
+            <div name="l-l"></div>
+            <div name="l-l"></div>
+            <div name="l-l"></div>
+        </div>
+    </div>
+    
+    <a href="#" name="c">
+        <div name="p">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+            <img name="pp" src="">
+        </div>
+        <div name="pusher"></div>
+        
+        <a href="#" name="pusher-x"></a>
+    </a>
