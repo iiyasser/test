@@ -1,0 +1,25 @@
+<div name="content">
+    <div name="aboutme">
+        <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-weight: bold; color: #FFF; font-size: 24px;" name="title">ABOUT ME</h1>
+        <div name="lines"></div>
+    </div>
+    <div name="aboutlinks">
+        <a href="#"><img src="http://i65.tinypic.com/iypykl.jpg" name="tumblr"></a>
+        <a href="#"><img src="http://i67.tinypic.com/2crq4b4.jpg" name="twitter"></a>
+        <a href="#"><img src="http://i64.tinypic.com/1relhz.jpg" name="in"></a>
+    </div>
+    <div name="filter"></div>
+    <div name="userimg"></div>
+</div>
+
+<div name="main-page">
+    <div name="circle">
+        <a href="#"><img src="http://i66.tinypic.com/25z0xzd.jpg" name="m"></a>
+    </div>
+    <div name="animation">
+        <div name="out"></div>
+        <div name="a"></div>
+        <div name="b"></div>
+        <div name="c"></div>
+    </div>
+</div>
